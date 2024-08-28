@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+.container {
+    max-width: 1100px;
+}
+
+.text-center {
+    margin: auto
+}
+
+.ms-5 {
+    margin-left: 0.5rem;
+}
